@@ -2,3 +2,12 @@ body {
     font-family: Verdana, Helvetica, sans-serif;
     background-color: #FFFFCC;
 }
+/*
+.carousel-inner  > .item.active{
+	left:325px;
+}*/
+
+.carousel-inner > .item img{
+	width:400px;
+	margin:auto;
+}
